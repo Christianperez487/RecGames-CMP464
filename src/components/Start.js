@@ -1,9 +1,9 @@
-import Menu from './Menu'
+import Display from './Display'
 
 function Start() {
     return (
         <div>
-            <Menu />
+            <Display />
         </div>
     )
 }
