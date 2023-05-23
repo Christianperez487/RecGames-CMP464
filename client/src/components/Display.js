@@ -17,6 +17,7 @@ return (
     <div className="container" style={{display:'block'}}>
         <h1 style={{marginCenter: '240px', color: "purple"}}>Recommended Games</h1>
         
+<p>Create your List!</p>
     </div>
 )
 }
